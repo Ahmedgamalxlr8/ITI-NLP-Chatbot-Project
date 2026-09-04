@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+sentence-transformers
+qdrant-client
+groq
+joblib
+pandas
+numpy
